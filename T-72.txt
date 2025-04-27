@@ -1,0 +1,121 @@
+*T-72 "Ural" (Ob'yekt 172M) [t72]
+    *T-72K [t72k]
+    *Robot-2 [robot2]
+    *Ob'yekt 172-2M "Buffalo" [obyekt172-2M-Buffalo]
+    *T-72 "Ural-1" (Ob'yekt 172M1) [t72-ural1]
+    *T-72A (Ob'yekt 172M-1) [t72a-1979]
+        *T-72A obr.1982g [t72a-1982] (no pic)
+        *T-72A obr.1984g [t72a-1984]
+        *T-72AK (Ob'yekt 176K) [t72ak-176k]
+            *T-72MK (T-72M(K)) [t72mk]
+        *T-72AV [t72av]
+		*T-72AMT [t72amt]
+        T-72M (Ob'yekt 172M-E2) [t72m-e2] (no pic)
+            *T-72M-E (Ob'yekt 172M-E) [t72me] (no pic)
+            T-72M1 [t72m1] 
+                T-72M1 Mod. 2022.
+				T-72M1A
+                T-72M1K
+                    T-72M1D
+                T-72M1V
+                T-72M1R
+				T-72M1S
+				T-72M2
+                M-84
+                    M-91 "Vihor" ("whirlwind")
+                        M-95 Degman
+                M-84A
+                    M-84AB
+                        M-84ABN
+                        M-84AK / ABK Command Tank
+                        M-84ABK
+                        M-84ABN
+                    M-84AI
+                    M-84AS
+                        M-84AS1
+                        M-84AS2
+                M-84A4 Sniper
+                    M-84D
+                T-72M4 CZ
+                Ajeya MK1 (Unconquerable)
+                Ajeya MK2
+                Combat Improved Ajeya
+                Lion of Babylon
+                PT-91 Twardy
+                    PT-91M Pendekar
+                        MID-M
+                        WZT-4
+                    WZT-3M
+                    MID Bizon-S
+				ShKH 2000 "Zuzana" (Zuzanne)
+            M-84 [m84]
+            T-72M "Übergangsversion" [t72m-ubergangs]
+            T-72M Rakhsh [t72m-rakhsh]
+            T-72 Saddam [t72m-sadam]
+            T-72AG [t72ag]
+        T-72M (Ob'yekt 172M-E3) [t72m-e3]
+        T-72M1 (Ob'yekt 172M-E5) [t72m1-e5]
+			T-72 Scarab (T-72-4)
+		T-72MP [t72mp]
+        T-72AM "Banan" [t72am]
+        T-72-120 [t72-120]
+    T-72A Aslan [t72a-aslan]
+    T-72 Avenger (T-72EA) [t72ea-avenger]
+    T-72B (Ob'yekt 184) [t72b]
+        T-72S "Shilden"
+        T-72BK (Ob'yekt 184K)
+        T-72BA (Ob'yekt 184A/A1)
+        T-72B1 (Ob'yekt 184-1)
+            T-72B1K (Ob'yekt 184K-1)
+            T-72B1MS "White Eagle"(Ob'yekt 184-1MS)
+            T-72UA1
+        T-72B obr.1989g
+        T-72B obr.1990g
+        T-72B2 (T-72BM) Rogatka obr.2006g (Ob'yekt 184M)
+        T-72BM2
+        T-72E
+        
+    T-90 (Ob'yekt 188) [t90]
+    T-72B3 (Ob'yekt 184-M3) [t72b3]
+        T-72B3 obr.2014
+            T-72B3M obr.2016
+            T-72B3M obr.2022
+            T-72B3A (2024)
+    T-72B Obr. 2023 [t72b-2023]
+    T-72M2 [t72m2]
+    T-72A/M1 [t72a-m1]
+    T-72 Adra [t72-andra]
+    T-72 Shafrah [t72-shafrah]
+    T-72 SIM-1 [t72-sim1]
+    T-72M1S [t72m1s]
+    TR-125 [tr125]
+    BMT-72 [bmt72]
+        T-72AMT Obr.2022
+    Golan-1000 [golan1000]
+    T-72 "Tiger" [t72-tiger]
+    SJ-09 [sj09]
+    PZA Loara [pza-loara]
+    Raad-2 [raad2]
+    BMO-T [bmot]
+    BMPT [bmpt]
+    TOS-1 [tos1]
+    TZM-T [tzmt]
+    MT-72 [mt72]
+    VT-72 (BRAM-72) [vt72]
+        VT-72M4
+    BREM-1 [brem1]
+        VT-72B (BRAM-72B)
+            VT-72C
+            VT-72Ž
+        T-72TK
+        BTS-5B
+    IMR-2 [imr2]
+        IMR-2M1
+        IMR-2M2
+        IMR-2MA
+            Klin-1
+    MTU-72 [mtu72]
+    BMR-3 [bmr3]
+    RKhM-7 "Berloga-1" [rkhm7-berloga]
+    Tsar Mangal [tsar-mangal]
+	ARV-3 [arv3]
