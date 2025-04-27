@@ -36,7 +36,7 @@ T-72 "Ural" (Ob'yekt 172M)
                         M-84AS2
                 M-84A4 Sniper
                     M-84D
-                T-72M4 CZ
+                
                 Ajeya MK1 (Unconquerable)
                 Ajeya MK2
                 Combat Improved Ajeya
@@ -52,7 +52,14 @@ T-72 "Ural" (Ob'yekt 172M)
             T-72M "Übergangsversion" 
             T-72M Rakhsh 
             T-72 Saddam 
-            T-72AG 
+            T-72AG
+	    T-72B1UZ
+            T-72SIM1
+	    T-72SIM2
+	    T-72UMG
+	    T-72M4 CZ
+            	 T-72M4 CZ-W
+		 VT-72M4 CZ
         T-72M (Ob'yekt 172M-E3) 
         T-72M1 (Ob'yekt 172M-E5) 
 			T-72 Scarab (T-72-4)
@@ -62,6 +69,7 @@ T-72 "Ural" (Ob'yekt 172M)
     T-72A Aslan 
     T-72 Avenger (T-72EA?) 
     T-72B (Ob'yekt 184) 
+	T-72B Kontakt 5
         T-72S "Shilden"
         T-72BK (Ob'yekt 184K)
         T-72BA (Ob'yekt 184A/A1)
@@ -74,14 +82,17 @@ T-72 "Ural" (Ob'yekt 172M)
         T-72B2 (T-72BM) Rogatka obr.2006g (Ob'yekt 184M)
         T-72BM2
         T-72E
+	
     T-90 (Ob'yekt 188) 
     T-72B3 (Ob'yekt 184-M3)
         T-72B3 obr.2014
             T-72B3M obr.2016
             T-72B3M obr.2022
             T-72B3A (2024)
+	    T-72B3M+Arena APS+Relikt ERA(T-72B4)
     T-72B Obr. 2023 
     T-72M2 
+     T-72m4
     T-72A/M1 
     T-72 Adra 
     T-72 Shafrah 
@@ -96,6 +107,7 @@ T-72 "Ural" (Ob'yekt 172M)
     Raad-2 
     BMO-T 
     BMPT 
+    BMPT-72
     TOS-1 
     TZM-T 
     MT-72 
