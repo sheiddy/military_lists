@@ -276,7 +276,9 @@ Aerostar	Romania
 Avioane Craiova	Romania
 Industria Aeronautică Română	Romania
 ROMARM	Romania
-Almaz-Antey	Russia
+Bucharest Mechanical Factory Romania
+Naval Shipyard  Damen Galați Romania
+Almaz-Antey		Russia
 Almaz-Antey (air defense systems)	Russia
 Aviaconversiya	Russia
 Barnaul Cartridge Plant	Russia
