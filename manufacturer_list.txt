@@ -1,0 +1,485 @@
+Établissement de Constructions et de Réparation Navale (ECRN)	Algeria
+Bersa	Argentina
+Fabricaciones Militares	Argentina
+Fábrica Argentina de Aviones	Argentina
+Río Santiago Shipyard	Argentina
+ASC	Australia
+Austal	Australia
+BSC Marine Group	Australia
+DMS Maritime	Australia
+Forgacs Marine & Defence	Australia
+Metal Storm	Australia
+NIOA	Australia
+NQEA	Australia
+Diamond Aircraft Industries	Austria
+Glock Ges.m.b.H.	Austria
+Rößler (Roessler Waffen GmbH)	Austria
+Steyr Arms	Austria
+Ministry of Defence Industry of Azerbaijan	Azerbaijan
+Bangladesh Ordnance Factories	Bangladesh
+Bangladesh Machine Tools Factory	Bangladesh
+Dockyard and Engineering Works	Bangladesh
+Khulna Shipyard	Bangladesh
+Chittagong Dry Dock	Bangladesh
+Forges de Zeebrugge	Belgium
+Herstal Group	Belgium
+John Cockerill	Belgium
+Belarusian Optical Mechanical Association   Belarus
+Fabrica Boliviana de Munición (FBM)	Bolivia
+Arsenal de Marinha do Rio de Janeiro	Brazil
+Avibras	Brazil
+Companhia Brasileira de Cartuchos	Brazil
+Embraer	Brazil
+EMGEPRON	Brazil
+Indústria Naval do Ceará	Brazil
+IMBEL	Brazil
+SIATT	Brazil
+Taurus	Brazil
+Arsenal Corporation	Bulgaria
+TEREM	Bulgaria
+VMZ Sopot	Bulgaria
+ABCO Industries	Canada
+A. F. Theriault Shipyard	Canada
+Bombardier Inc.	Canada
+Cadex Defence	Canada
+Cascade Aerospace	Canada
+Davie Shipbuilding	Canada
+INKAS	Canada
+Irving Shipbuilding	Canada
+Magellan Aerospace Corporation	Canada
+MetalCraft Marine	Canada
+Ontario Drive and Gear Ltd. (ARGO)	Canada
+Seaspan Marine Corporation	Canada
+Viking Air	Canada
+ASMAR	Chile
+ENAER	Chile
+FAMAE	Chile
+Aviation Industry Corporation of China (AVIC)	China
+China Aerospace Science and Industry Corporation (CASIC)	China
+China Aerospace Science and Technology Corporation	China
+China Electronics Technology Group	China
+Norinco (China North Industries Group)	China
+China South Industries Group	China
+China State Shipbuilding Corporation	China
+Poly Technologies	China
+Weichai Group	China
+COTECMAR	Colombia
+Corporación de la Industria Aeronáutica Colombiana S.A. (CIAC)	Colombia
+Indumil	Colombia
+ISBI ARMORing Inc. (ISBI)	Colombia
+Brodosplit d.d.	Croatia
+Đuro Đaković	Croatia
+HS Produkt	Croatia
+Marina Punat	Croatia
+Union de Industrias Militares	Cuba
+Aero Vodochody	Czech Republic
+Colt CZ Group	Czech Republic
+Czechoslovak Group	Czech Republic
+Zlin Aviation	Czech Republic
+Česká zbrojovka (CZ)	Czech Republic
+Tatra (military vehicles)	Czech Republic
+Zbrojovka Brno	Czech Republic
+Faaborg Shipyard	Denmark
+Karstensens Skibsværft A/S	Denmark
+Terma A/S	Denmark
+Dirección de la Industria Aeronáutica Ecuador	Ecuador
+Alexandria Shipyard	Egypt
+Arab Organization for Industrialization	Egypt
+Baltic Workboats	Estonia
+Metals and Engineering Corporation	Ethiopia
+Marine Alutech (Watercat)	Finland
+Patria	Finland
+Pirkan ASE	Finland
+Rauma Marine Constructions	Finland
+SAKO	Finland
+Uki Workboat	Finland
+Centigon Security Group	France
+Chapuis Armes	France
+Constructions industrielles de la Méditerranée	France
+Daher	France
+Dassault Group	France
+KNDS France	France
+MBDA	France
+Naval Group	France
+PGM Precision	France
+PIRIOU	France
+Renault Trucks	France
+Safran S.A.	France
+Socarenam	France
+Thales Group	France
+Verney-Carron	France
+Abeking & Rasmussen	Germany
+Blaser	Germany
+Carl Walther GmbH	Germany
+Diehl Aerospace	Germany
+Diehl Defence	Germany
+Fassmer	Germany
+Flensburger Fahrzeugbau	Germany
+Lürssen	Germany
+Hartmann & Weiss	Germany
+Heckler & Koch	Germany
+Heym AG	Germany
+Hensoldt AG	Germany
+Howaldtswerke-Deutsche Werft	Germany
+Krieghoff	Germany
+J. G. Anschütz	Germany
+KNDS Deutschland	Germany
+Mauser Jagdwaffen GmbH	Germany
+PTW KORTH Technologies GmbH (Korth)	Germany
+Rheinmetall AG	Germany
+ThyssenKrupp	Germany
+Ziegenhahn & Sohn	Germany
+STC Delta	Georgia
+BSK Defense	Greece
+Hellenic Aerospace Industry	Greece
+Hellenic Defence Systems (EAS)	Greece
+Hellenic Vehicle Industry	Greece
+Motomarine S.A.	Greece
+Ordtech Military Industries (OMI)	Greece
+Advanced Weapons and Equipment India	India
+Ashok Leyland Defence Systems	India
+Armoured Vehicles Nigam	India
+BEML	India
+Bharat Dynamics	India
+Bharat Electronics	India
+BrahMos Aerospace	India
+Cochin Shipyard	India
+Garden Reach Shipbuilders & Engineers	India
+Gliders India	India
+Goa Shipyard	India
+Hindustan Aeronautics	India
+Hindustan Shipyard	India
+India Optel	India
+Kalyani Group	India
+Larsen & Toubro	India
+Mahindra Group	India
+Mazagon Dock Shipbuilders	India
+Mishra Dhatu Nigam	India
+MKU	India
+Munitions India	India
+Samtel Avionics	India
+SSS Defence	India
+Tata Advanced Systems	India
+Troop Comforts	India
+Yantra India	India
+Indonesian Aerospace	Indonesia
+North Sea Boats (PT Lundin Industry Invest)	Indonesia
+PT PAL Indonesia	Indonesia
+PT Palindo Marine	Indonesia
+PT Pindad	Indonesia
+Aerospace Industries Organization (AIO)	Iran
+Defense Industries Organization (DIO)	Iran
+Iran Aviation Industries Organization (IAIO)	Iran
+Iran Electronics Industries (IEI)	Iran
+Iran Marine Industrial Company (SADRA)	Iran
+Iran Shipbuilding & Offshore Industries Complex Co (ISOICO)	Iran
+Marine Industries Organization (MIO)	Iran
+Automotive Industries	Israel
+BUL Armory	Israel
+Carmor	Israel
+Elbit Systems	Israel
+Emtan Karmiel	Israel
+Israel Aerospace Industries	Israel
+Israel Shipyards	Israel
+Israel Weapon Industries	Israel
+mPrest Systems	Israel
+Plasan	Israel
+RADA Electronic Industries	Israel
+Rafael Advanced Defense Systems	Israel
+UVision Air	Israel
+Zibar	Israel
+Armi Jager (Nuova Jager)	Italy
+Perazzi	Italy
+Baglietto Navy	Italy
+BCM Europearms s.a.s.	Italy
+Benelli Armi	Italy
+Beretta	Italy
+Breda Meccanica Bresciana (Breda)	Italy
+Chiappa Firearms	Italy
+Tecnam	Italy
+DRASS	Italy
+FAMARS	Italy
+FB Design	Italy
+Fincantieri	Italy
+Fiocchi Munizioni	Italy
+Franchi	Italy
+Intermarine	Italy
+Iveco	Italy
+Leonardo	Italy
+Piaggio Aerospace	Italy
+Vittoria Shipyard	Italy
+Vulcanair	Italy
+Asahi-Seiki Manufacturing Co., Ltd	Japan
+Daikin	Japan
+Hitachi	Japan
+Hongawara Ship Yard Co., Ltd	Japan
+Howa	Japan
+IHI Corporation	Japan
+Ishikawa Seisakusho, Ltd	Japan
+Japan Steel Works	Japan
+JFE Holdings	Japan
+Kawasaki Heavy Industries	Japan
+Komatasu	Japan
+MinebeaMitsumi	Japan
+Mitsubishi Group	Japan
+Mitsui Engineering & Shipbuilding	Japan
+Sasebo Heavy Industries	Japan
+Setouchi Craft Co., Ltd	Japan
+ShinMaywa	Japan
+Subaru Corporation	Japan
+Sumidagawa Shipyard Co., Ltd (SSY)	Japan
+Sumitomo Heavy Industries	Japan
+Toshiba Corporation	Japan
+Yamaha Motor Company	Japan
+Jordan Design and Development Bureau	Jordan
+Kazakhstan Engineering	Kazakhstan
+Kenya Ordnance Factories Corporation	Kenya
+Dartz	Latvia
+JSC Riga Shipyard	Latvia
+JSC LiTak-Tak	Lithuania
+Beretta Holding (Multinational)	Luxembourg
+Boustead Heavy Industries Corporation Berhad (BHIC)	Malaysia
+DefTech	Malaysia
+Destini Berhad	Malaysia
+Aguila Ammunition (TECNOS)	Mexico
+Productos Mendoza	Mexico
+Myanmar Directorate of Defence Industries	Myanmar
+Airbus (Multinational)	Netherlands
+Damen Group	Netherlands
+Defenture	Netherlands
+KMW+Nexter Defense Systems (Multinational)	Netherlands
+Defence Industries Corporation of Nigeria	Nigeria
+MZT (Makedonska Zeleznicka Tehnika)	North Macedonia
+Kongsberg Gruppen	Norway
+Nammo AS	Norway
+Umoe Mandal	Norway
+Global Industrial Defence Solutions (GIDS)	Pakistan
+Heavy Industries Taxila (HIT)	Pakistan
+Integrated Dynamics	Pakistan
+Karachi Shipyard	Pakistan
+National Engineering and Scientific Commission (NESCOM)	Pakistan
+National Radio & Telecommunication Corporation (NRTC)	Pakistan
+Pakistan Aeronautical Complex (PAC)	Pakistan
+Pakistan Ordnance Factories (POF)	Pakistan
+Servicios Industriales de la Marina S.A. (SIMA Peru S.A.)	Peru
+Armscor	Philippines
+Government Arsenal	Philippines
+Ferfrans	Philippines
+Philippine Aerospace Development Corporation	Philippines
+United Defense Manufacturing Corporation	Philippines
+AMZ-Kutno	Poland
+Polish Armaments Group (PGZ)	Poland
+Polish Defence Holding (PHO)	Poland
+Tekever Group (TEKEVER)	Portugal
+West Sea	Portugal
+Aerostar	Romania
+Avioane Craiova	Romania
+Industria Aeronautică Română	Romania
+ROMARM	Romania
+Almaz-Antey	Russia
+Almaz-Antey (air defense systems)	Russia
+Aviaconversiya	Russia
+Barnaul Cartridge Plant	Russia
+Bryansk Automobile Plant	Russia
+Concern Morinformsystem-Agat	Russia
+Concern Radio-Electronic Technologies (KRET)	Russia
+Energia	Russia
+Financial and Industrial Group High-speed ships	Russia
+GAZ Group	Russia
+High Precision Systems	Russia
+Kalashnikov Concern (formerly Izhmash)	Russia
+Kamaz	Russia
+Klimovsk Specialized Ammunition Plant	Russia
+Lavochkin	Russia
+Lobaev Arms	Russia
+Makeyev Rocket Design Bureau	Russia
+Military Industrial Company	Russia
+Motovilikha Plants	Russia
+Rostec (umbrella for many Soviet-era enterprises)	Russia
+ORSIS	Russia
+Open JSC Pella (Pella)	Russia
+Progress Rocket Space Centre	Russia
+Roscosmos	Russia
+RTI Systems	Russia
+Ruselectronics	Russia
+Russian Helicopters	Russia
+Shvabe Holding	Russia
+Sozvezdie	Russia
+Tactical Missiles Corporation	Russia
+Tecmash	Russia
+United Aircraft Corporation	Russia
+United Shipbuilding Corporation	Russia
+UralAZ	Russia
+Uralvagonzavod	Russia
+High-Precision Systems	Russia
+Vega Radio Engineering Corporation	Russia
+Zelenodolsk Shipyard	Russia
+Saudi Arabian Military Industries	Saudi Arabia
+Yugoimport SDPR	Serbia
+Krušik	Serbia
+PPT Namenska	Serbia
+Prvi Partizan	Serbia
+Sloboda Čačak	Serbia
+EDePro	Serbia
+Zastava Arms	Serbia
+ST Engineering	Singapore
+Grand Power s.r.o.	Slovakia
+Konstrukta-Defence	Slovakia
+Ravne Systems Armas	Slovenia
+ZVS Holding Slovenia
+DCD Group	South Africa
+Denel	South Africa
+Milkor (Pty) Ltd	South Africa
+Paramount Group	South Africa
+Rippel Effect (Pty) Ltd.	South Africa
+Truvelo Armoury	South Africa
+Doosan Group	South Korea
+Hanwha Group	South Korea
+Hyundai Heavy Industries	South Korea
+Hyundai Motor Group	South Korea
+Korea Aerospace Industries (KAI)	South Korea
+LIG Nex1	South Korea
+SNT Dynamics	South Korea
+SNT Motiv	South Korea
+Astilleros Gondán	Spain
+Dikar S. Coop.	Spain
+Expal	Spain
+Indra Sistemas	Spain
+Instalaza	Spain
+Navantia	Spain
+Rodman Group	Spain
+SENER	Spain
+Armas Ugartechea	Spain
+Colombo Dockyard	Sri Lanka
+Military Industry Corporation (MIC Sudan)	Sudan
+BAE Systems AB	Sweden
+Bromma Air Maintenance AB	Sweden
+Saab AB	Sweden
+Swede Ship Marine AB	Sweden
+B&T	Switzerland
+Pilatus Aircraft	Switzerland
+RUAG Holding Ltd	Switzerland
+Swiss Arms (SIG Sauer)	Switzerland
+Aerospace Industrial Development Corporation	Taiwan
+CSBC Corporation	Taiwan
+DronesVision	Taiwan
+Jong Shyn Shipbuilding Company	Taiwan
+Lungteh Shipbuilding	Taiwan
+National Chung-Shan Institute of Science and Technology	Taiwan
+Thunder Tiger	Taiwan
+Bangkok Dock	Thailand
+Chaiseri	Thailand
+Thai Aviation Industry	Thailand
+Ares Shipyard	Turkey
+ASFAT Inc.	Turkey
+ASELSAN	Turkey
+Baykar	Turkey
+BMC	Turkey
+GİRSAN	Turkey
+HAVELSAN	Turkey
+Koç Holding	Turkey
+Mechanical and Chemical Industry Corporation (MKEK)	Turkey
+Nurol Holding (FNSS Defence Systems)	Turkey
+Özyurt Arms	Turkey
+ROKETSAN	Turkey
+Sarsılmaz Arms	Turkey
+TİSAŞ	Turkey
+Turkish Aerospace Industries	Turkey
+Kuznya na Rybalskomu	Ukraine
+LATEK OOO	Ukraine
+NPO Practika	Ukraine
+RPC Fort	Ukraine
+Ukroboronprom	Ukraine
+XADO Chemical Group (Snipex)	Ukraine
+PA Pivdenmash	Ukraine
+Zbroyar Ltd.	Ukraine
+Motor Sich	Ukraine
+Antonov	Ukraine
+Yuzhmash	Ukraine
+EDGE Group	United Arab Emirates
+STREIT Group	United Arab Emirates
+Accuracy International	United Kingdom
+Babcock International	United Kingdom
+BAE Systems	United Kingdom
+Britten-Norman	United Kingdom
+Chemring Group	United Kingdom
+Eley Brothers	United Kingdom
+Ferguson Marine	United Kingdom
+Griffon Hoverwork	United Kingdom
+James Fisher & Sons	United Kingdom
+James Purdey and Sons	United Kingdom
+Marshall Aerospace and Defence Group	United Kingdom
+Supacat	United Kingdom
+W. W. Greener	United Kingdom
+Webley & Scott	United Kingdom
+Westley Richards	United Kingdom
+AeroVironment	United States
+American Derringer	United States
+AM General	United States
+ArmaLite	United States
+Axon	United States
+BAE Systems Inc.	United States
+Barrett Firearms Manufacturing	United States
+Black Hills Ammunition	United States
+Boeing Defense, Space & Security	United States
+Bollinger Shipyards	United States
+Bond Arms	United States
+Brunswick Boat Group	United States
+Bushmaster Firearms International	United States
+Calico Light Weapons Systems	United States
+Charter Arms	United States
+CheyTac	United States
+Colt's Manufacturing Company	United States
+Combined Systems, Inc.	United States
+Cooper Firearms	United States
+Day & Zimmermann	United States
+Daniel Defense	United States
+Dead Air Silencers	United States
+Derecktor Shipyards	United States
+Desert Tech	United States
+Freedom Arms	United States
+General Atomics	United States
+General Dynamics	United States
+Gladding-Hearn Shipbuilding	United States
+GM Defense	United States
+Metal Shark Boats	United States
+Harris Gunworks	United States
+Henry Repeating Arms	United States
+Hi-Point Firearms	United States
+Hodgdon Yachts	United States
+Honeywell	United States
+Hornady Manufacturing Company	United States
+Huntington Ingalls Industries	United States
+International Motors	United States
+Ithaca Gun Company	United States
+Kahr Arms	United States
+Kaman Aerospace	United States
+Kel-Tec	United States
+Kimber Manufacturing	United States
+Knight's Armament Company	United States
+KRISS USA	United States
+L3Harris Technologies	United States
+Lehigh Defense	United States
+Les Baer	United States
+Lewis Machine & Tool Company	United States
+Lockheed Martin	United States
+LWRC International	United States
+MD Helicopters	United States
+North American Arms	United States
+Northrop Grumman	United States
+Nosler	United States
+Noveske Rifleworks	United States
+OF Mossberg & Sons	United States
+Olin Corporation	United States
+Oshkosh Corporation	United States
+Palmetto State Armory	United States
+Patriot Ordnance Factory	United States
+Polaris Industries	United States
+Rock River Arms	United States
+RTX Corporation (Raytheon)	United States
+Safariland	United States
+SAFE Boats International	United States
+Savage Arms	United States
+Science Applications International Corporation	United States
+Serbu Firearms	United States
+Sierra Bullets	United States
