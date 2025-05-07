@@ -1,21 +1,29 @@
 Entries with a '*' in front means they were already added to the database to some degree.
+[WIP]
 25 -> 98
 
-*T-72 "Ural" (Ob'yekt 172M)
++*T-72 "Ural" (Ob'yekt 172M)
     *T-72UMG
     T-72 "Ural-1" (Ob'yekt 172M1)
-    *T-72A (Ob'yekt 176) the actual Object 176 was merely an experimental tank used as a testbed for various
-    *T-72A (Ob'yekt 172M-1) ^^^^^^^ possible split between these two? ^^^
+    *T-72A (Ob'yekt 176) the actual Object 176 was merely an experimental tank used as a testbed
+    +*T-72A (Ob'yekt 172M-1) ^^^^^^^ possible split between these two? ^^^
         *T-72A obr.1982         
         T-72A obr. 1983
         *T-72A obr.1984         
         *T-72AK (Ob'yekt 176K)  
-            *T-72MK (T-72M(K))
+            *T-72MK 
         *T-72AV (Ob'yekt 176V)            
-		*T-72AMT                
-        *T-72M (Ob'yekt 172M-E2) 
-            *T-72M-E (Ob'yekt 172M-E)
-            *T-72M1 (Ob'yekt 172M-E5) (Warsaw Pact members)
+		*T-72AMT    
+
+        *T-72M-E (Ob'yekt 172M-E)                                       Product (Object) 172M-E  (1976) (same as base variant) (Poland, Czechoslovakia, Yugoslavia since '78)               
+            [TO BE ADDED 172MK-E]                                       Product (Object) 172MK-E (command variant of the 172M-E)
+        T-72M (Ob'yekt 172M-E1)                                         Product (Object) 172M-E1 (1978) (base variant without NBC) (Algeria, India, Iraq, Syria)
+            Product (Object) 172MK-E1 (command variant of the above)
+
+        *T-72M (Ob'yekt 172M-E2)                                        Product (Object) 172M-E2 (1978) (base variant improved- TPD-K1 sight with a laser rangefinder) (Poland, Czechoslovakia)
+            [TO BE ADDED 172MK-E2, check with other T-72MK]             Product (Object) 172MK-E2 (command variant of 172M-E2)
+            *T-72M1 (Ob'yekt 172M-E5) (Warsaw Pact members)             Product (Object) 172M-E5 (1982/83) (presence of 172.10.073SB "Kvartz" turret, new 16-60-105-50 armor layout, distincitive by visible 16mm HHS addon plate, improved suspension shock absorbers)
+                                                                        Product (Object) 172MK-E5 (command variant of 172M-E5)
                 T-72 Scarab (T-72-4)
                 *T-72 Avenger (T-72EA?) 
                 *T-72M1 Mod. 2022.
@@ -35,7 +43,8 @@ Entries with a '*' in front means they were already added to the database to som
                 *T-72M Rakhsh 
             *T-72 Saddam
             *T-72AG*
-            *T-72M1 (Ob'yekt 172M-E6) (3rd world countries)
+            *T-72M1 (Ob'yekt 172M-E6) (3rd world countries)             Product (Object) 172M-E6 (1983) (simplified E5 variant, lacking NBC system) (India, produced locally under "Ajeya" name, later becoming Ajeya Mk.1)
+                Product (Object) 172MK-E6 (command variant of the above)
                 *Ajeya MK1 (Unconquerable)  37 -> 102
                 *Ajeya MK2                  37 -> 102
                 *Ajeya Combat Improved      37 -> 102
@@ -46,21 +55,37 @@ Entries with a '*' in front means they were already added to the database to som
                 T-72SIM1 ???
 
             T-72SIM2
-            *T-72M (Ob'yekt 172M-E3) Poland
-                *T-72M "Übergangsversion"
-            *T-72M (Ob'yekt 172M-E3) Czechoslovakia
+            T-72M (Ob'yekt 172M-E3) in two variants
+                
+            ---->*T-72M (Ob'yekt 172M-E3) Poland                        Product (Object) 172M-E3 (1980) (TDA or 902A Tucha smoke discharge system, rubber sideskirts, thermal sleeve for the gun) (Poland, Bulgaria, Czechoslovakia, Yugoslavia, East Germany)
+                    *T-72M "Übergangsversion"
+                    T-72M-1Z (T-72 Tiger)
+            ---->*T-72M (Ob'yekt 172M-E3) Czechoslovakia                Product (Object) 172M-E3 (1980) (TDA or 902A Tucha smoke discharge system, rubber sideskirts, thermal sleeve for the gun) (Poland, Bulgaria, Czechoslovakia, Yugoslavia, East Germany)
+                [TO BE ADDED 172MK-E3]                                  Product (Object) 172MK-E3 (command variant of the above Ob'yekt 172M-E3)
+                [TO BE ADDED 172M-E4]                                   Product (Object) 172M-E4 (1982) (simplified E3 variant, lacking NBC system) (Libya, Algieria, Iraq, India, Finland)
+                    [TO BE ADDED 172MK-E4]                              Product (Object) 172MK-E4 (command variant of the above)
             T-72MP 
             T-72AM "Banan" 
             T-72-120
 --------------------------
         *T-72A Aslan 
-        *T-72B (Ob'yekt 184) - Improved T-72
-            T-72S "Shilden" (T-72M1M1, Ob'yekt 172M-E8)
+
+
+
+        [TO BE ADDED 172M-E7]                                           Product (Object) 172M-E7 - NOT MASS PRODUCED, (1987) (reduced ERA coverage vs T-72B, 2 rows per side instead of 4, new turret based on 172.10.077SB/100SB (reflective plate turret) (visually identical) with more primitive composite array, no anti-neutron lining, simplified NBC)
+            [TO BE ADDED 172MK-E7]                                      Product (Object) 172MK-E7 - NOT MASS PRODUCED, UNCLEAR if command variant of E7 was ever made.
+        *T-72B (Ob'yekt 184) - Improved T-72 
+            T-72S "Shilden" (T-72M1M1, Ob'yekt 172M-E8)                 Product (Object) 172M-E8 (1991) (reduced ERA coverage as E7, no stowage box on the left side of the turret, presence of DVE-BS wind sensor, turret most likely the same as E7) (Iran, Yemen, Russian Federation)
+                [TO BE ADDED 172MK-E8]                                  Product (Object) 172MK-E8 (command variant of the above)
             T-72BK (Ob'yekt 184K)
             T-72BA (Ob'yekt 184A/A1)
             T-72B1 (Ob'yekt 184-1)
                 T-72B1K (Ob'yekt 184K-1)
-                T-72B1MS "White Eagle"(Ob'yekt 184-1MS)
+                T-72B1 "White Eagle"                                   Product 184-1MS T-72B1 "White Eagle" NOT MASS PRODUCED (2012) (pure white camo, PN-72/72M gunner primary sight with BARV.468939.001 autotracker, PKP-72 "Falcon's eye" CITV, parallel RMSh tracks, normal T-72B1 cupola)
+                T-72B1MS "White Eagle"(Ob'yekt 184-1MS)                Product 184-1MS T-72B1MS (2017) (mostly same as "White Eagle" showcase vehicle, slightly different PKP-72 CITV cover with slanted rear sides, additional external box rack for the HMG on the right side of the turret, new open rack on the left side, new commanders cupola with RCWS, APU) (Nicaragua)
+                [TO BE ADDED 184-1MS T-72B1MS (2020)]                  Product 184-1MS T-72B1MS (2020) (the same as variant for Nicaragua, aside using old/basic/sequential (take your pick) (single pin) RMSh track) (Serbia)
+
+                
                 T-72UA1 ??
             T-72B obr.1989g
             T-72B obr.1990g 
@@ -84,36 +109,71 @@ Entries with a '*' in front means they were already added to the database to som
     *T-72K  
     Robot-2 
     Ob'yekt 172-2M "Buffalo"
-	    
     TR-125
     BMT-72 
         T-72AMT Obr.2022
-    Golan-1000 
-    T-72 "Tiger" 
-    SJ-09
-    PZA Loara 
-    Raad-2 
-    BMO-T 
-    BMPT 
-    BMPT-72
-    TOS-1 
-    TZM-T 
-    MT-72 
-    VT-72 (BRAM-72) 
-        VT-72M4
-    BREM-1 
-        VT-72B (BRAM-72B)
-            VT-72C
-            VT-72Ž
-        T-72TK
-        BTS-5B
-    IMR-2 
-        IMR-2M1
-        IMR-2M2
-        IMR-2MA
-            Klin-1
-    MTU-72 
-    BMR-3 
-    RKhM-7 "Berloga-1" 
-    Tsar Mangal 
-	ARV-3 
+
+
+Other vehicles based on the T-72:
+    SJ-09 - polish driver training vehicle   
+    PZA Loara - polish anti-aircraft vehicle
+    Raad-2 - Iranian SPG
+    BMO-T - A transport vehicle for flamethrower-squads armed with RPO launchers.
+    BMPT - Missile tank? support tank? 
+    BMPT-72 - missile tank? support tank?
+    TOS-1 - MLRS
+    TZM-T -  Reloading vehicle for the TOS-1
+    MT-72 - bridge layer
+    BTS-5B - Ukrainian version of the BREM-1 ARV
+    BREM-1 - ARV
+        VT-72B (BRAM-72B) - ARV based on BREM-1 
+        VT-72C - Improved VT-72B
+        VT-72Ž - Combat engineer tank
+    VT-72 (BRAM-72) - Czechoslovak ARV
+        VT-72M4 -  Modernized VT-72 ARV
+        T-72TK(BRAM-72B) -  East German designation for VT-72B
+    IMR-2 - Combat Engineering Vehicle
+        IMR-2M1 - CEV
+        IMR-2M2 - CEV
+        IMR-2MA - CEV
+            Klin-1 - remote CEV
+    MTU-72 - bridge layer
+    BMR-3 - Mine clearing vehicle
+    RKhM-7 "Berloga-1" - recon vehicle 
+    Tsar Mangal - Turtle Tank
+
+
+(index; DOI; distinctive ID features from previous variant/base variant (aka only most important ones); original users) (command variants difference typically is additional radio antenna, if more, will be specified)
+Due to changes in the naming scheme of the GRAU index, "изделие"- "product" will be used, alongside older "oбъект"- "object" if both naming schemes apply.
+T-72 "E" export variants, export name: none, same as domestic T-72 and T-72K (command variant), for clarity sake a suffix "E" in quotation marks may be added> T-72 "E", T-72K "E" but generally just bare name was used.
+Product (Object) 172M-E (1976) (same as base variant) (Poland, Czechoslovakia, Yugoslavia since '78)
+Product (Object) 172MK-E (command variant of the above)
+Product (Object) 172M-E1 (1978) (base variant without NBC) (Algeria, India, Iraq, Syria)
+Product (Object) 172MK-E1 (command variant of the above)
+Product (Object) 172M-E2 (1978) (base variant improved- TPD-K1 sight with a laser rangefinder) (Poland, Czechoslovakia)
+Product (Object) 172MK-E2 (command variant of the above)
+
+T-72A "early" export variants, export name: T-72M, T-72MK (command variant)
+Product (Object) 172M-E3 (1980) (TDA or 902A Tucha smoke discharge system, rubber sideskirts, thermal sleeve for the gun) (Poland, Bulgaria, Czechoslovakia, Yugoslavia, East Germany)
+Product (Object) 172MK-E3 (command variant of the above)
+Product (Object) 172M-E4 (1982) (simplified E3 variant, lacking NBC system) (Libya, Algieria, Iraq, India, Finland)
+Product (Object) 172MK-E4 (command variant of the above)
+
+T-72A "late" export variants, export name: T-72M1, T-72M1K (command variant)
+Product (Object) 172M-E5 (1982/83) (presence of 172.10.073SB "Kvartz" turret, new 16-60-105-50 armor layout, distincitive by visible 16mm HHS addon plate, improved suspension shock absorbers) (Poland, Czechoslovakia, Yugoslavia)
+Product (Object) 172MK-E5 (command variant of the above)
+Product (Object) 172M-E6 (1983) (simplified E5 variant, lacking NBC system) (India, produced locally under "Ajeya" name, later becoming Ajeya Mk.1)
+Product (Object) 172MK-E6 (command variant of the above)
+
+T-72B export variants (really a variant, singular), export name: T-72S, T-72SK (command variant)
+Product (Object) 172M-E7 - NOT MASS PRODUCED, (1987) (reduced ERA coverage vs T-72B, 2 rows per side instead of 4, new turret based on 172.10.077SB/100SB (reflective plate turret) (visually identical) with more primitive composite array, no anti-neutron lining, simplified NBC)
+Product (Object) 172MK-E7 - NOT MASS PRODUCED, UNCLEAR if command variant of E7 was ever made.
+Product (Object) 172M-E8 (1991) (reduced ERA coverage as E7, no stowage box on the left side of the turret, presence of DVE-BS wind sensor, turret most likely the same as E7) (Iran, Yemen, Russian Federation)
+Product (Object) 172MK-E8 (command variant of the above)
+
+T-72B1 export variations:
+(Product 184-1V? UNCLEAR) T-72B1V (2012) (refurbished T-72B1 with new parallel (double pin) RMSh tracks)
+(Product 184K-1V? UNCLEAR) T-72B1V command variant
+Product 184-1MS T-72B1 "White Eagle"- NOT MASS PRODUCED (2012) (pure white camo, PN-72/72M gunner primary sight with BARV.468939.001 autotracker, PKP-72 "Falcon's eye" CITV, parallel (double pin) RMSh tracks, normal T-72B1 cupola)
+Product 184-1MS T-72B1MS (2017) (mostly same as "White Eagle" showcase vehicle, slightly different PKP-72 CITV cover with slanted rear sides, additional external box rack for the HMG on the right side of the turret, new open rack on the left side, new commanders cupola with RCWS, APU) (Nicaragua)
+Product 184-1MS T-72B1MS (2020) (the same as variant for Nicaragua, aside using old/basic/sequential (take your pick) (single pin) RMSh track) (Serbia)
