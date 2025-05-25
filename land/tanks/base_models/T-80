@@ -1,37 +1,44 @@
 Object 219 SP1(T-80 Prototype)
-Object 219 SP12T-80 Prototype)
-T-80 Obr1976
-T-80B Obr1978
-T-80A
-t-80AK
-T-80AVK
-T-80BV
-Object 478
-Object 2019M (T-80BVM variant)
-Object 219RD(Diesel engine prototype)
-Object 219E( Shtora-1 Prototype)
-Object 292( Prototype on T-80U)
-T-80BK
-T-80BVK
-T-80U
-T-80UK
-T-80UA(Upgraded T-80U)
-T-80UM(Upgraded T-80U with AGAVA-2 Thermal sight)
-T-80U-M1 Bars(T-80UM with Arena-M APS)
-T-80UE-1(Cross between T-80BV and T-80UD)
-T-80UM2(Prototype with Drozd-2 APS)
-Object 640 Black eagle(Deep T-80U modernization)
-T-80UE(1995 Modification developped specifically for Greek tender)
-Object 644
-T-80UD Bereza
-Object 478BK (T-80UD with welded turret)
-Object 478BE(Cast turret T-80UD)
-T-80UD with Drozd APS(Export version)
-Object 478D (T-80UD with Remote detonated rounds)
-Object 478(T-80 Hull with Object 476 turret)
-T-80BVM
-T-80BVM Obr 2022
-T-80BV Obr 2022
+Object 219 SP2(T-80 Prototype)
+T-80 (Object 219)
+    T-80A (Object 219A)
+        T-80A obr.1984
+        T-80AK
+            T-80AK obr.1984
+        T-80U (Object 219AS)
+            T-80UA (Upgraded T-80U) [?]
+            T-80U obr. 1992
+            T-80UK
+            T-80UE
+                T-80UE-1
+            T-80UM (Object 219AS-M)
+                T-80UM-1 "Bars"
+                T-80UM-2
+                Chorny Oryol (Ob'yekt 640)
+    T-80 UD (Object 478)
+        T-80UD Bereza  (Object 478B )
+            T-80UDK
+            T-80UD (Object 478BK )
+            T-80UD (Object 478BEh ) export to Pakistan
+                T-80UD (Object 478BE-1) variant of the 478BE with a welded turret.
+            T-80UD (Object 478BDU2 )
+            T-80UD (Object 478BEM) export to the US
+                T-80UD Object 478BEM-1 - Drozd-1 APS
+                T-80UD Object 478BEM-2 - air conditioning
+            T-80UD (Object 478D)
+        T-80UD (Object 478BK)
+        T-80U Azov
+        Obiekt 292 [prototype]
+    T-80B (Object 219R)
+        T-80BK
+        T-80BV (Object 219RV)
+            T-80BV Ukrainian modernized
+            T-80BVK
+            T-80BVD
+            T-80BVM
+                T-80BVM Obr 2022
+            T-80BV Obr 2022
+    T-80BV (Object 219M)
 
 
 BTM-4M
