@@ -1,6 +1,7 @@
 F-16 Fighting Falcon, US Multirole fighter aircraft
 
-F-16:
+
+*F-16 Fighting Falcon:
     F-16A/B FSD
         F-16/101
         F-16A FSD
@@ -8,16 +9,14 @@ F-16:
             F-16 AFTI (Advanced Fighter Technology Integration)
         F-16B FSD
             F-16 XL/B (F-16 XL #2)
-        F-16 XL/A/B
-            
-            
+        F-16 XL/A/B   
     F-16 LWF
     YF-16
         F-16/CCV
-    F-16A/B
-        F-16A/B Block 1
-            F-16A Block 1
-            F-16B Block 1
+    *F-16A/B
+        *F-16A/B Block 1
+            *F-16A Block 1
+            *F-16B Block 1
         F-16A/B Block 5
             F-16A Block 5
             F-16B Block 5
@@ -26,8 +25,10 @@ F-16:
             F-16B Block 10
         F-16A/B Block 15
             F-16A Block 15
-                A-10 (Block 60)
+                A-10 (Block 60).
+                F-16AM Block 15
             F-16B Block 15
+                F-16BM Block 15
             F-16A/B Block 15 OCU
                 F-16A Block 15 OCU
                 F-16B Block 15 OCU
@@ -42,7 +43,10 @@ F-16:
                 F-16B ADF
         F-16A/B Block 20
             F-16A Block 20
+                F-16AM Block 20
             F-16B Block 20
+                F-16BM Block 20
+            
         F/A-16A
         F-16/79 (FX Export Fighter)
     F-16C/D
