@@ -20,38 +20,38 @@ Entries with a '*' in front means they were already added to the database to som
             [TO BE ADDED 172MK-E]                                       Product (Object) 172MK-E (command variant of the 172M-E)
         T-72M (Ob'yekt 172M-E1)                                         Product (Object) 172M-E1 (1978) (base variant without NBC) (Algeria, India, Iraq, Syria)
             [TO BE ADDED 172MK-E]                                       Product (Object) 172MK-E1 (command variant of the above)
-        *T-72M (Ob'yekt 172M-E2)                                        Product (Object) 172M-E2 (1978) (base variant improved- TPD-K1 sight with a laser rangefinder) (Poland, Czechoslovakia)
-            [TO BE ADDED 172MK-E2, check with other T-72MK]             Product (Object) 172MK-E2 (command variant of 172M-E2)
-            *T-72M1 (Ob'yekt 172M-E5) (Warsaw Pact members)             Product (Object) 172M-E5 (1982/83) (presence of 172.10.073SB "Kvartz" turret, new 16-60-105-50 armor layout, distincitive by visible 16mm HHS addon plate, improved suspension shock absorbers)
-                                                                        Product (Object) 172MK-E5 (command variant of 172M-E5)
-                T-72 Scarab (T-72-4)
-                *T-72 Avenger (T-72EA?) 
-                *T-72M1 Mod. 2022
-				*T-72M1A
-                *T-72M1K
-                    *T-72M1K1
-                    *T-72M1D
-                *T-72M1V
-                *T-72M1R
-				*T-72M1S
-				*T-72M2 - Bulgarian
-                *T-72M2 - Slovak (Moderna) 
-                *T-72M4 CZ
-                    *T-72M4 CZ-W                
-            *T-72M Karrar                   35 -> 25
-                *T-72M Rakhsh 
-            *T-72 Saddam
-            *T-72AG*
-            *T-72M1 (Ob'yekt 172M-E6) (3rd world countries)             Product (Object) 172M-E6 (1983) (simplified E5 variant, lacking NBC system) (India, produced locally under "Ajeya" name, later becoming Ajeya Mk.1)
-                [TO BE ADDED 172MK-E6]                                  Product (Object) 172MK-E6 (command variant of the above)
-                *Ajeya MK1 (Unconquerable)  37 -> 102
-                *Ajeya MK2                  37 -> 102
-                *Ajeya Combat Improved      37 -> 102
-                *Tank EX                    37 -> 102
-                *Lion of Babylon            37 -> 102
-                *T-72 Mahmia (Adra) Gen 1
-                    *T-72 Mahmia (Adra) Gen 2
-                *T-72 Shafrah 
+    *T-72M (Ob'yekt 172M-E2)                                        Product (Object) 172M-E2 (1978) (base variant improved- TPD-K1 sight with a laser rangefinder) (Poland, Czechoslovakia)
+        [TO BE ADDED 172MK-E2, check with other T-72MK]             Product (Object) 172MK-E2 (command variant of 172M-E2)
+        *T-72M1 (Ob'yekt 172M-E5) (Warsaw Pact members)             Product (Object) 172M-E5 (1982/83) (presence of 172.10.073SB "Kvartz" turret, new 16-60-105-50 armor layout, distincitive by visible 16mm HHS addon plate, improved suspension shock absorbers)
+                                                                    Product (Object) 172MK-E5 (command variant of 172M-E5)
+            T-72 Scarab (T-72-4)
+            *T-72 Avenger (T-72EA?) 
+            *T-72M1 Mod. 2022
+			*T-72M1A
+            *T-72M1K
+                *T-72M1K1
+                *T-72M1D
+            *T-72M1V
+            *T-72M1R
+			*T-72M1S
+			*T-72M2 - Bulgarian
+            *T-72M2 - Slovak (Moderna) 
+            *T-72M4 CZ
+                *T-72M4 CZ-W                
+        *T-72M Karrar                   35 -> 25
+            *T-72M Rakhsh 
+        *T-72 Saddam
+        *T-72AG*
+        *T-72M1 (Ob'yekt 172M-E6) (3rd world countries)             Product (Object) 172M-E6 (1983) (simplified E5 variant, lacking NBC system) (India, produced locally under "Ajeya" name, later becoming Ajeya Mk.1)
+            [TO BE ADDED 172MK-E6]                                  Product (Object) 172MK-E6 (command variant of the above)
+            *Ajeya MK1 (Unconquerable)  37 -> 102
+            *Ajeya MK2                  37 -> 102
+            *Ajeya Combat Improved      37 -> 102
+            *Tank EX                    37 -> 102
+            *Lion of Babylon            37 -> 102
+            *T-72 Mahmia (Adra) Gen 1
+                *T-72 Mahmia (Adra) Gen 2
+            *T-72 Shafrah 
 --------------------------
             T-72B1UZ ???
                 T-72SIM1 ???
