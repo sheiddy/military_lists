@@ -1,12 +1,14 @@
 MIM-104 Patriot, US surface-to-air missile
 
 [WIP]
-MIM-104
-    MIM-104A (standard)
-        MIM-104B [PAC-1] (software updated)
-            MIM-104C [PAC-2]
-                MIM-104D (PAC-2/GEM)
-                    MIM-104E (PAC-2/GEM+)
+*MIM-104
+    *MIM-104A (standard)
+        *MIM-104B [PAC-1] (software updated)
+            *MIM-104C [PAC-2]
+                MIM_104E (PAC-2/GEM-T)
+                *MIM-104D (PAC-2/GEM)
+                    MIM-104E PAC-2/GEM-C
+                    // MIM-104E (PAC-2/GEM+)
                         MIM-104F (PAC-3)
                                 PAC-3 MSE
                             PAC-3 configuration 1 (1995)
