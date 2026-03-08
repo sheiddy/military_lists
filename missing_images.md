@@ -13,6 +13,7 @@
 - [ ] M-84ABN
 
 - [ ] MIM-104A/B (same image?)
+- [ ] MIM-104E (PAC-2/GEM-C)
 - [ ] M-05 Vuk
 
 - [ ] ZALA Kub-BLA Improved
