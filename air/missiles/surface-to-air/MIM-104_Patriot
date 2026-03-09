@@ -1,17 +1,18 @@
 MIM-104 Patriot, US surface-to-air missile
 
 [WIP]
-*MIM-104
-    *MIM-104A (standard)
-        *MIM-104B [PAC-1] (software updated)
-            *MIM-104C [PAC-2]
-                *MIM-104E (PAC-2/GEM-T)
-                *MIM-104D (PAC-2/GEM)
-                    *MIM-104E PAC-2/GEM-C
-                        *MIM-104F (PAC-3 CRI)
-                                PAC-3 MSE
-                            PAC-3 configuration 1 (1995)
-                            PAC-3 configuration 2 (1996)
-                            PAC-3 configuration 3 (2000)
-                            SkyCeptor PAAC-4
-                    MIM-104E (PAC-2/GEM+) <- program, do not add it.
+*MIM-104 Patriot Family [ID 228*]
+   *MIM-104A (standard) [ID 229*]
+   *MIM-104B [PAC-1] [ID 230*] (PAC-1-era missile configuration; note PAC-1 is mainly system/software)
+   *MIM-104C [PAC-2] [ID 231*]
+   *MIM-104D (PAC-2/GEM) [ID 232]
+   *MIM-104E (PAC-2/GEM+) [ID 236]
+      *PAC-2/GEM-T [ID 233]
+      *PAC-2/GEM-C [ID 234]
+   *MIM-104F (PAC-3 CRI) [ID 235]
+
+   PAC-3 configuration 1 (1995)
+   PAC-3 configuration 2 (1996)
+   PAC-3 configuration 3 (2000)
+   *PAC-3 MSE [ID 237]
+   SkyCeptor PAAC-4 [TBD]
